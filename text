@@ -1,0 +1,7 @@
+cd ~/aigen_project
+/home/wasim/aigen_project/aigen_env/bin/python3 ~/aigen_project/fast_deception.py
+ls -l /tmp/honey
+echo "" > /tmp/honey/db_connection.str
+cat /tmp/honey/db_connection.str
+/home/wasim/aigen_project/aigen_env/bin/python3 /home/wasim/aigen_project/view_database_metadata.py
+/home/wasim/aigen_project/aigen_env/bin/python3 /home/wasim/aigen_project/show_active_tokens.py
